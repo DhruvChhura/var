@@ -13,4 +13,4 @@ lunch="brunch aosp_ysl-user"
 build_command="make bacon"
 
 # Telegram Bot
-your_telegram_id="697787441"
+your_telegram_id="1367251045"
