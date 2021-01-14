@@ -7,7 +7,7 @@ local_manifest_url="https://github.com/DhruvChhura/android_.repo_local_manifests
 local_manifest_branch="DhruvChhura-patch-1"
 
 # Lunch device
-lunch="brunch aosp_ysl-user"
+lunch="lunch aosp_ysl-userdebug"
 
 # Build command
 build_command="make bacon"
