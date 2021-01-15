@@ -9,7 +9,7 @@ local_manifest_branch="DhruvChhura-patch-1"
 # Lunch device
 lunch="lunch lineage_ysl-userdebug"
 
-# Build command
+# build command
 build_command="mka bacon -jx"
 
 # Telegram Bot
