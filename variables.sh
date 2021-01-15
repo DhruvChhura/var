@@ -7,7 +7,7 @@ local_manifest_url="https://github.com/DhruvChhura/android_.repo_local_manifests
 local_manifest_branch="DhruvChhura-patch-1"
 
 # Lunch device
-lunch="lunch corvus_ysl-userdebug"
+lunch="lunch du_ysl-userdebug"
 
 # build command
 build_command="mka bacon"
