@@ -10,7 +10,7 @@ local_manifest_branch="DhruvChhura-patch-1"
 lunch="lunch corvus_ysl-userdebug"
 
 # Build command
-build_command="mka bacon"
+build_command="make corvus"
 
 # Telegram Bot
 your_telegram_id="1367251045"
