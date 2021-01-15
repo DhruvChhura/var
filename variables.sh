@@ -9,7 +9,7 @@ local_manifest_branch="DhruvChhura-patch-1"
 # Lunch device
 lunch="lunch corvus_ysl-userdebug"
 
-# Build command
+# build command
 build_command="make corvus"
 
 # Telegram Bot
