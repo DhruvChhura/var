@@ -10,7 +10,7 @@ local_manifest_branch="DhruvChhura-patch-1"
 lunch="lunch lineage_ysl-userdebug"
 
 # build command
-build_command="make bacon"
+build_command="mka bacon"
 
 # Telegram Bot
 your_telegram_id="1367251045"
