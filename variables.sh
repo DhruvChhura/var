@@ -12,7 +12,7 @@ Env_setup=". build/envsetup.sh"
 # Lunch device
 lunch="lunch aosp_ysl-userdebug"
 
-# Build command
+# build command
 build_command="make aex"
 
 # Telegram Bot
