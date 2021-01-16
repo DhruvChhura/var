@@ -6,6 +6,9 @@ rom_manifest_branch="11.x"
 local_manifest_url="https://github.com/DhruvChhura/android_.repo_local_manifests"
 local_manifest_branch="DhruvChhura-patch-1"
 
+# Env setup
+Env_setup=". build/envsetup.sh"
+
 # Lunch device
 lunch="lunch aosp_ysl-userdebug"
 
