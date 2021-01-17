@@ -9,7 +9,7 @@ local_manifest_branch="DhruvChhura-patch-1"
 # Lunch device
 lunch="lunch potato_ysl-userdebug"
 
-# build command
+# Build command
 build_command="brunch potato_ysl-userdebug"
 
 # Telegram Bot
