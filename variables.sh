@@ -10,7 +10,7 @@ local_manifest_branch="DhruvChhura-patch-1"
 lunch="lunch potato_ysl-userdebug"
 
 # build command
-build_command="brunch ysl"
+build_command="brunch potato_ysl-userdebug"
 
 # Telegram Bot
 your_telegram_id="1367251045"
